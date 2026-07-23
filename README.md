@@ -13,9 +13,7 @@
 <a href="https://www.linkedin.com/in/bitanubiswas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:bitanubiswascs@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://doi.org/10.1007/978-3-032-15398-2_12"><img src="https://img.shields.io/badge/Publication-00CC88?style=for-the-badge&logo=doi&logoColor=white" /></a>
-<!-- TODO: swap YOUR_HANDLE for your real LeetCode username, then uncomment
-<a href="https://leetcode.com/u/YOUR_HANDLE/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
--->
+<a href="https://leetcode.com/u/bitanubiswascs/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=BitanuCS&label=PROFILE+VIEWS&color=ff3caC&style=for-the-badge" />
 
@@ -60,7 +58,7 @@ class Bitanu:
 - 🏢 &nbsp;**2 yrs** at Infosys validating millions of records
 - 🖼️ &nbsp;Built a **Modified-AlexNet** steganalysis classifier
 - 🚗 &nbsp;Vehicle detection with **OpenCV** + COCO
-- 🧩 &nbsp;**50+** LeetCode problems solved
+- 🧩 &nbsp;Grinding **DSA** on LeetCode (live count below 👇)
 - ⚡ &nbsp;Fun fact: I debug better at 2 AM
 
 </td>
@@ -201,6 +199,14 @@ Stateful conversational agent built on LangGraph — memory, tools and checkpoin
 <br/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=BitanuCS&theme=redical&hide_border=true&bg_color=0D1117&color=F76CE4&line=00E5FF&point=FFFFFF&area=true" />
+
+<br/><br/>
+
+### 🧩 &nbsp;LeetCode grind
+
+<a href="https://leetcode.com/u/bitanubiswascs/">
+  <img width="46%" src="https://leetcard.jacoblin.cool/bitanubiswascs?theme=radical&font=Fira+Code&ext=heatmap" />
+</a>
 
 <!--
   NOTE: github-readme-stats and github-profile-trophy were returning 503 / 402
