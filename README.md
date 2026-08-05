@@ -181,7 +181,7 @@ Stateful conversational agent built on LangGraph — memory, tools and checkpoin
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BitanuCS&show_icons=true&include_all_commits=true&rank_icon=github&theme=radical&hide_border=true&bg_color=0D1117&title_color=F76CE4&icon_color=00E5FF" />
-<img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BitanuCS&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F76CE4" />
+<img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=BitanuCS&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F76CE4&card_width=340&cache_seconds=1800" />
 
 <br/><br/>
 
