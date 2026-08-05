@@ -180,17 +180,8 @@ Stateful conversational agent built on LangGraph — memory, tools and checkpoin
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BitanuCS&theme=radical" />
-
-<br/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BitanuCS&theme=radical" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BitanuCS&theme=radical" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BitanuCS&theme=radical" />
-
-<br/>
-
-<img width="66%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BitanuCS&theme=radical&utcOffset=5.5" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BitanuCS&show_icons=true&include_all_commits=true&rank_icon=github&theme=radical&hide_border=true&bg_color=0D1117&title_color=F76CE4&icon_color=00E5FF" />
+<img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BitanuCS&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F76CE4" />
 
 <br/><br/>
 
@@ -209,12 +200,19 @@ Stateful conversational agent built on LangGraph — memory, tools and checkpoin
 </a>
 
 <!--
-  NOTE: github-readme-stats and github-profile-trophy were returning 503 / 402
-  when this profile was built, so the cards above use github-profile-summary-cards
-  instead. If those services recover, you can add them back:
+  CARD HOSTING NOTES (last checked 2026-08-05):
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BitanuCS&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=BitanuCS&theme=radical&no-frame=true&no-bg=true&column=7" />
+  - github-profile-summary-cards.vercel.app -> 500 for every card, so the
+    profile-details / repos-per-language / most-commit-language / stats /
+    productive-time cards were removed.
+  - github-readme-stats.vercel.app -> 503 (upstream instance is rate-limited),
+    so the stats + top-langs cards above point at the community mirror
+    github-readme-stats-sigma-five.vercel.app. If the official host recovers,
+    just swap the domain back:
+    https://github-readme-stats.vercel.app/api?username=BitanuCS&...
+  - github-profile-trophy.vercel.app -> 402 (Vercel quota exhausted). Add back
+    if it returns:
+    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=BitanuCS&theme=radical&no-frame=true&no-bg=true&column=7" />
 -->
 
 </div>
